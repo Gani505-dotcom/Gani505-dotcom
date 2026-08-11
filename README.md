@@ -151,7 +151,6 @@ A full-stack AI chatbot powered by OpenAI's GPT model, designed to provide real-
 - 📱 Fully responsive interface
 - 💬 Interactive real-time chat experience
 
-**[💻 Source Code](YOUR_GITHUB_URL)**
 
 ### 5. Star Wars Character Explorer
 A responsive React and TypeScript application that consumes the Star Wars API and provides an interactive character browsing experience.
