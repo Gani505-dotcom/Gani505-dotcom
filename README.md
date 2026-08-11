@@ -96,7 +96,7 @@ An AI-powered full-stack attendance management system combining face recognition
 
 **Highlights:** Face recognition & liveness detection · 500m geofencing · Time-restricted attendance · Admin dashboard · Notifications · Monthly attendance calculations · 75% attendance threshold logic
 
-· [💻 Source Code](https://github.com/Gani505-dotcom/Smart-Attendance-Verification-System)
+[💻 Source Code](https://github.com/Gani505-dotcom/Smart-Attendance-Verification-System)
 
 ---
 
@@ -107,11 +107,53 @@ A visual workflow automation platform that allows users to design AI-powered wor
 
 **Highlights:** Drag-and-drop builder · Input / LLM / Database / Filter / API Request / Delay / Email / Output nodes · Node connections · DAG validation
 
-· [💻 Source Code](https://github.com/Gani505-dotcom/LLM-Workflow-Builder)
+[💻 Source Code](https://github.com/Gani505-dotcom/LLM-Workflow-Builder)
 
 ---
 
-### 3. Star Wars Character Explorer
+## 3. 📊 Python Funnel Analytics Dashboard
+
+**Data Analytics Project**
+
+A Python-based analytics project designed to analyze user behavior across a conversion funnel, identify major drop-off points, and generate actionable business insights.
+
+### 🛠️ Tech Stack
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Data Analysis`
+
+### ✨ Highlights
+
+- 📈 Stage-wise conversion rate analysis
+- 🔍 Funnel bottleneck detection
+- 👥 User segment comparison
+- ⏱️ Conversion-time analysis
+- 📊 Matplotlib visualizations
+- 📄 Automated CSV/TXT reports
+- 💡 Actionable business recommendations
+
+**[💻 Source Code](https://github.com/Gani505-dotcom/Funnel-Drop-off-Analysis)**
+
+## 4. 🤖 Quantum Mind AI
+
+**Real-Time Interactive AI Chatbot**
+
+A full-stack AI chatbot powered by OpenAI's GPT model, designed to provide real-time, context-aware conversations with personalized responses.
+
+### 🛠️ Tech Stack
+
+`Python` `OpenAI GPT` `LLM` `JavaScript` `Tailwind CSS` `REST APIs`
+
+### ✨ Highlights
+
+- ⚡ Real-time AI response streaming
+- 🧠 Context-aware conversation memory
+- 🎯 Personalized AI responses
+- 📱 Fully responsive interface
+- 💬 Interactive real-time chat experience
+
+**[💻 Source Code](YOUR_GITHUB_URL)**
+
+### 5. Star Wars Character Explorer
 A responsive React and TypeScript application that consumes the Star Wars API and provides an interactive character browsing experience.
 
 **Tech:** React · TypeScript · Vite · Tailwind CSS · Axios · TanStack React Query · SWAPI
@@ -122,7 +164,7 @@ A responsive React and TypeScript application that consumes the Star Wars API an
 
 ---
 
-### 4. Fake News Detection
+### 6. Fake News Detection
 A machine learning application that classifies news articles as real or fake using NLP techniques.
 
 **Tech:** Python · Pandas · Scikit-learn · TF-IDF · Logistic Regression
@@ -133,7 +175,7 @@ A machine learning application that classifies news articles as real or fake usi
 
 ---
 
-### 5. Zestora E-Commerce Website
+### 7. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
 
 **Tech:** HTML · CSS · JavaScript · PHP · MySQL
