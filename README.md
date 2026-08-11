@@ -187,14 +187,30 @@ A full-stack e-commerce website built with modern web technologies and a databas
 
 ## 💼 Experience
 
-**Full Stack Development Intern** — NayePankh Foundation
-Full-stack development, frontend/backend integration, REST APIs, database operations, responsive web applications, and team collaboration.
+### Full Stack Development Intern — NayePankh Foundation
+**Nov 2024 – Dec 2024 | Remote**
 
-**Data Science Intern** — Scholiverse Educare Pvt. Ltd.
-Python, Pandas, data preprocessing, exploratory data analysis (EDA), machine learning, and data analysis.
+Worked on full-stack web development, contributing to frontend and backend features, REST API integration, database operations, responsive UI development, testing, debugging, and team collaboration.
 
-**Python Full Stack Trainee** — QSpiders
-Python, Django, SQL, web development, REST APIs, and full-stack development fundamentals.
+**Tech:** React.js • JavaScript • HTML • CSS • REST APIs • Database
+
+---
+
+### Data Science Intern — Scholiverse Educare Pvt. Ltd.
+**Aug 2024 – Sep 2024 | Remote**
+
+Worked on data analysis and machine learning workflows involving data preprocessing, exploratory data analysis, feature preparation, model development, and extracting meaningful insights from datasets.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Matplotlib • Machine Learning
+
+---
+
+### Python Full Stack Trainee — QSpiders
+**Jan 2026 – Jul 2026**
+
+Developing practical skills in Python full-stack development through hands-on training, covering backend development, web technologies, database integration, REST APIs, and application development.
+
+**Tech:** Python • Django • SQL • HTML • CSS • JavaScript • REST APIs
 
 <br>
 
