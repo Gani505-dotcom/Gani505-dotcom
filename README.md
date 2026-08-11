@@ -207,17 +207,6 @@ Full-stack web applications · AI-powered applications · REST APIs · Automatio
 
 <br>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gani505-dotcom&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gani505-dotcom&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="42%" />
-
-</div>
-
-<br>
-
 ## 💻 Coding Profiles
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gani505-dotcom)
