@@ -218,13 +218,23 @@ Full-stack web applications · AI-powered applications · REST APIs · Automatio
 
 ## 🐍 Contribution Activity
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gani505-dotcom&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Gani505-dotcom&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
-If the widgets above don't render, view contribution activity directly on the [GitHub profile](https://github.com/Gani505-dotcom).
+<br>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gani505-dotcom&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
 
 <br>
 
