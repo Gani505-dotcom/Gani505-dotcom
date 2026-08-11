@@ -216,26 +216,6 @@ Full-stack web applications · AI-powered applications · REST APIs · Automatio
 
 </div>
 
-## 🐍 Contribution Activity
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gani505-dotcom&show_icons=true&hide_border=true" alt="GitHub Stats" />
-
-</div>
-
-<br>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gani505-dotcom&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
 <br>
 
 ## 💻 Coding Profiles
