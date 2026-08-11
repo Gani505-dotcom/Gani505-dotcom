@@ -245,7 +245,7 @@ I'm interested in contributing to open-source projects, collaborating with devel
 
 I'm currently interested in Software Engineer, Full Stack Developer, Python Developer, AI/ML, and Data-oriented opportunities where I can contribute to real-world products while continuing to grow as an engineer.
 
-**Resume →** [YOUR_RESUME_URL](https://drive.google.com/file/d/1k4fuxeMIJiWxclKNltcb7jjPxQC_7Y7z/view?usp=sharing)
+**Resume →** [https://drive.google.com/file/d/1k4fuxeMIJiWxclKNltcb7jjPxQC_7Y7z/view?usp=sharing]
 
 <br>
 
