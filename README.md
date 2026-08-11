@@ -173,8 +173,17 @@ A machine learning application that classifies news articles as real or fake usi
 [💻 Source Code](https://github.com/Gani505-dotcom/Fake-News-Detector)
 
 ---
+### 7.💰 Fund Raising Platform
 
-### 7. Zestora E-Commerce Website
+A full-stack fundraising platform that enables users to explore campaigns, make donations, manage their accounts, and participate in a referral program.
+
+**Tech:** React.js • TypeScript • Tailwind CSS • Supabase • Vercel
+
+**Features:** 🔐 Authentication • 🎯 Campaigns • 💳 Donations • 📊 Dashboard • 🎁 Referral Center
+
+🔗 [Live Demo](https://fund-raising-platform.vercel.app/) • [Source Code](https://github.com/Gani505-dotcom/Fund-Raising-Platform)
+
+### 8. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
 
 **Tech:** HTML · CSS · JavaScript · PHP · MySQL
