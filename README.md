@@ -96,7 +96,7 @@ An AI-powered full-stack attendance management system combining face recognition
 
 **Highlights:** Face recognition & liveness detection · 500m geofencing · Time-restricted attendance · Admin dashboard · Notifications · Monthly attendance calculations · 75% attendance threshold logic
 
-[🔗 Live Demo](YOUR_URL) · [💻 Source Code](https://github.com/Gani505-dotcom/Smart-Attendance-Verification-System)
+· [💻 Source Code](https://github.com/Gani505-dotcom/Smart-Attendance-Verification-System)
 
 ---
 
@@ -107,7 +107,7 @@ A visual workflow automation platform that allows users to design AI-powered wor
 
 **Highlights:** Drag-and-drop builder · Input / LLM / Database / Filter / API Request / Delay / Email / Output nodes · Node connections · DAG validation
 
-[🔗 Live Demo](YOUR_URL) · [💻 Source Code](https://github.com/Gani505-dotcom/LLM-Workflow-Builder)
+· [💻 Source Code](https://github.com/Gani505-dotcom/LLM-Workflow-Builder)
 
 ---
 
