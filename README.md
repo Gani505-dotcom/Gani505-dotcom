@@ -213,59 +213,6 @@ A full-stack fundraising platform that enables users to explore campaigns, make 
 
 ---
 
-## 9. TaskFlow — Full-Stack Task Management Board
-
-A full-stack task management board inspired by lightweight tools like Trello, built with **React, TypeScript, FastAPI, Python, and SQLite**.
-
-### Features
-
-- Create, edit, delete, and move tasks between board columns
-- Priority-based task filtering
-- Task title search
-- Persistent SQLite database storage
-- Relational database design with primary keys, foreign keys, constraints, and seed data
-- Custom SQL queries for task management
-- REST APIs built with FastAPI
-- Backend validation and error handling
-- Automated backend tests using pytest
-- Modular architecture with reusable components, services, repositories, schemas, and API routes
-
-### Tech Stack
-
-**Frontend:** React, TypeScript  
-**Backend:** Python, FastAPI  
-**Database:** SQLite  
-**Testing:** pytest  
-**Version Control:** Git, GitHub
-
-### Architecture
-
-```text
-TaskFlow
-├── Frontend
-│   ├── React Components
-│   ├── TypeScript
-│   └── API Services
-│
-├── Backend
-│   ├── FastAPI Routes
-│   ├── Schemas
-│   ├── Services
-│   ├── Repositories
-│   └── Validation
-│
-├── Database
-│   ├── SQLite
-│   ├── Tables
-│   ├── Relationships
-│   └── SQL Queries
-│
-└── Tests
-    └── pytest
-
-[Source Code](https://github.com/Gani505-dotcom/TaskFlow-Fullstack)
----
-
 ### 10. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
 
