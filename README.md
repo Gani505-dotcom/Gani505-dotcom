@@ -133,6 +133,8 @@ A Python-based analytics project designed to analyze user behavior across a conv
 
 **[💻 Source Code](https://github.com/Gani505-dotcom/Funnel-Drop-off-Analysis)**
 
+---
+
 ## 4. 🤖 Quantum Mind AI
 
 **Real-Time Interactive AI Chatbot**
@@ -151,6 +153,7 @@ A full-stack AI chatbot powered by OpenAI's GPT model, designed to provide real-
 - 📱 Fully responsive interface
 - 💬 Interactive real-time chat experience
 
+---
 
 ### 5. Star Wars Character Explorer
 A responsive React and TypeScript application that consumes the Star Wars API and provides an interactive character browsing experience.
@@ -185,6 +188,8 @@ Built and customized a production-style Shopify e-commerce storefront as part of
 
 🔗 [Live Demo](https://purelane-assignment-6ikeyzev.myshopify.com/) • [Source Code](https://github.com/Gani505-dotcom/purelane-shopify-assignment)
 
+---
+
 ### 7. Fake News Detection
 A machine learning application that classifies news articles as real or fake using NLP techniques.
 
@@ -195,6 +200,7 @@ A machine learning application that classifies news articles as real or fake usi
 [💻 Source Code](https://github.com/Gani505-dotcom/Fake-News-Detector)
 
 ---
+
 ### 8.💰 Fund Raising Platform
 
 A full-stack fundraising platform that enables users to explore campaigns, make donations, manage their accounts, and participate in a referral program.
@@ -204,6 +210,8 @@ A full-stack fundraising platform that enables users to explore campaigns, make 
 **Features:** 🔐 Authentication • 🎯 Campaigns • 💳 Donations • 📊 Dashboard • 🎁 Referral Center
 
 🔗 [Live Demo](https://fund-raising-platform.vercel.app/) • [Source Code](https://github.com/Gani505-dotcom/Fund-Raising-Platform)
+
+---
 
 ### 9. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
