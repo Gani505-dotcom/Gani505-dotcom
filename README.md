@@ -182,6 +182,7 @@ Built and customized a production-style Shopify e-commerce storefront as part of
 ### Tech Stack
 
 `Shopify` `Shopify Liquid` `HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Responsive Web Design` `E-commerce Development`
+
 🔗 [Live Demo](https://purelane-assignment-6ikeyzev.myshopify.com/) • [Source Code](https://github.com/Gani505-dotcom/purelane-shopify-assignment)
 
 ### 7. Fake News Detection
