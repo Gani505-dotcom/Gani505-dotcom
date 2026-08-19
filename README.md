@@ -213,7 +213,7 @@ A full-stack fundraising platform that enables users to explore campaigns, make 
 
 ---
 
-### 10. Zestora E-Commerce Website
+### 9. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
 
 **Tech:** HTML · CSS · JavaScript · PHP · MySQL
@@ -221,6 +221,7 @@ A full-stack e-commerce website built with modern web technologies and a databas
 **Highlights:** Product management · Database integration · Shopping functionality · Backend integration
 
 [💻 Source Code](https://github.com/Gani505-dotcom/ECommerce_Website)
+
 
 <br>
 
