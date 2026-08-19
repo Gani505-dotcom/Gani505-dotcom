@@ -163,7 +163,28 @@ A responsive React and TypeScript application that consumes the Star Wars API an
 
 ---
 
-### 6. Fake News Detection
+## 6. 🛍️ AI Product Engineer – Shopify E-commerce Store | Troopod
+
+**Aug 2026**
+
+Built and customized a production-style Shopify e-commerce storefront as part of the **Troopod AI Product Engineer technical assignment**.
+
+### Key Highlights
+
+- 🎨 Customized the **Shopify Dawn theme** using **Liquid, HTML, CSS, and JavaScript**.
+- 🛒 Implemented product, collection, discount, and storefront functionality with a responsive UI.
+- 📦 Created and configured **Best Sellers** and **Bundle Products** collections.
+- 🧩 Handled real-world edge cases including **sold-out products, products without images, and long product titles**.
+- 🤖 Used **AI-assisted development** to accelerate implementation, debugging, and code review while manually validating generated code.
+- 🔧 Maintained the project using **Git & GitHub** with theme validation and testing.
+- 💻 Focused on clean, maintainable **Shopify-compatible code** and a user-friendly e-commerce experience.
+
+### Tech Stack
+
+`Shopify` `Shopify Liquid` `HTML5` `CSS3` `JavaScript` `Git` `GitHub` `Responsive Web Design` `E-commerce Development`
+🔗 [Live Demo](https://purelane-assignment-6ikeyzev.myshopify.com/) • [Source Code](https://github.com/Gani505-dotcom/purelane-shopify-assignment)
+
+### 7. Fake News Detection
 A machine learning application that classifies news articles as real or fake using NLP techniques.
 
 **Tech:** Python · Pandas · Scikit-learn · TF-IDF · Logistic Regression
@@ -173,7 +194,7 @@ A machine learning application that classifies news articles as real or fake usi
 [💻 Source Code](https://github.com/Gani505-dotcom/Fake-News-Detector)
 
 ---
-### 7.💰 Fund Raising Platform
+### 8.💰 Fund Raising Platform
 
 A full-stack fundraising platform that enables users to explore campaigns, make donations, manage their accounts, and participate in a referral program.
 
@@ -183,7 +204,7 @@ A full-stack fundraising platform that enables users to explore campaigns, make 
 
 🔗 [Live Demo](https://fund-raising-platform.vercel.app/) • [Source Code](https://github.com/Gani505-dotcom/Fund-Raising-Platform)
 
-### 8. Zestora E-Commerce Website
+### 9. Zestora E-Commerce Website
 A full-stack e-commerce website built with modern web technologies and a database-driven backend.
 
 **Tech:** HTML · CSS · JavaScript · PHP · MySQL
